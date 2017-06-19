@@ -1,0 +1,60 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    font-family:"Microsoft YaHei";
+}
+ol, ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after,
+q:before, q:after {content: '';content: none;}
+a{text-decoration: none;color:#000000;}
+/* remember to define focus styles! */
+:focus {outline: 0;}
+input{margin: 0;text-align: center;height: 20px;line-height: 20px;font-size: 15px;width: 200px;}
+select{margin: 0;text-align: center;height: 28px;line-height: 20px;font-size: 15px;width: 204px;}
+
+.btn-plusmin {font-size: 15px;color:red;background-color:#eeeeee;border: 1px solid #a1a1a1;width: 25px;
+    height: 25px;line-height: 25px;text-align: center;vertical-align: middle;padding: 0;margin: 0;
+    cursor: pointer;}
+/* remember to highlight inserts somehow! */
+ins {text-decoration: none;}
+del {text-decoration: line-through;}
+/* tables still need 'cellspacing="0"' in the markup */
+table {border-collapse: collapse;border-spacing: 0;}
+
+
+.btn{float:left;width:180px;height:50px;line-height:50px;text-align:center;border-radius: 5px;border:1px solid #a1a1a1;display: block;font-weight:bolder;color:#a1a1a1;}
+.btn-bg{background: #E47D7A;color: #ffffff; }
+.ulList{width:638px;float:left;border-bottom:1px solid #d7d7d7;border-left:1px solid #d7d7d7;border-right:1px solid #d7d7d7;}
+.ulList li{float:left;margin:5px;}
+.liList{float: left;width:635px;}
+.liList li{margin:10px 2px;width: 310px;font-size:14px;}
+#tabDiv{margin:0 auto;width:640px;}
+.titleText{font-size: 18px;font-weight:bold;font-family:"Microsoft YaHei";height:20px;line-height: 20px;color: #a1a1a1;}
+.titlePoints{float:right;height:20px;line-height:20px;vertical-align:middle;background: url('../../images/bgp.png') repeat-x;}
+.enterBtn{width:120px;height:30px;}
+#optionS,#optionC,#optionX{position:absolute;display:none;width:92px;height:100px;z-index: 2;border:1px solid black;font-size:12px;margin-top:24px;background: #ffffff;overflow-y:scroll;}
+#optionS ul li,#optionC ul li,#optionX ul li{width:70px;margin:0;padding:2px;}
+/*#comboS,#comboC,#comboX{background: #ffffff;}*/
+/*#registInfo{margin-left: 20px;}*/
+#registS,#registC,#registX{  z-index: 1;width:78px;float:left;}
+.warp{width:100%;position:relative;}
+.dialog{width:100%;top:0;left:0;height:100%;position:absolute;display: none;z-index:9999;}
+.dialogBox{border-radius:5px;position:relative;top:40%;background-color: #ffffff;margin:auto;width:420px;height:180px;border:1px solid #a1a1a1;}
+#dialogText{text-align: center;margin-top:50px;}
+.redText{color:red;}
+.comboList{display: none;}
+.btn2{float:left;width:180px;height:50px;line-height:50px;text-align:center;border-radius: 5px;border:1px solid #a1a1a1;display: block;font-weight:bolder;color:#a1a1a1;}

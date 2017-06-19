@@ -1,0 +1,150 @@
+/*.x-accordion-item .x-accordion-hd, .x-panel-header-default {*/
+/*background: #d87166;*/
+/*}*/
+
+/*.x-accordion-hd {*/
+/*border: none;*/
+/*border-bottom: 1px solid #ffffff;*/
+/*}*/
+
+/*.x-accordion-hd .x-panel-header-text-container, .x-panel-header-text-default {*/
+/*font-size: 14px;*/
+/*color: #ffffff;*/
+/*font-weight: bolder;*/
+/*}*/
+
+/*.x-window-header-text-container-default {*/
+/*background: #d87166;*/
+/*line-height: 20px;*/
+/*margin: 0 0 0 0;*/
+/*}*/
+
+/*.x-window-header-text-default {*/
+/*color: #ffffff;*/
+/*font-size: 14px;*/
+/*line-height: 30px;*/
+/*border: none;*/
+/*}*/
+
+/*.x-window-header-default-top {*/
+/*background: #d87166;*/
+/*padding: 0;*/
+/*border-radius: 0;*/
+/*height: 32px;*/
+/*line-height: 32px;*/
+/*box-shadow: none;*/
+/*}*/
+
+/*.x-window-default {*/
+/*padding: 0;*/
+/*border: none;*/
+/*border-radius: 0;*/
+/*border-color:#000000;*/
+/*background: #ffffff;*/
+/*}*/
+
+/*.x-window-body-default {*/
+/*background: #ffffff;*/
+/*border: none;*/
+/*}*/
+
+/*.x-message-box .x-window-body {*/
+/*background: #ffffff;*/
+/*}*/
+
+/*.x-btn-default-small, .x-btn-wrap {*/
+/*background: #d87166;*/
+/*border-color: #d87166;*/
+/*padding: 0;*/
+/*}*/
+
+/*.x-panel-default, .x-panel-body-default {*/
+/*background: #ffffff;*/
+/*}*/
+
+/*.x-tool-close {*/
+/*display: none;*/
+/*}*/
+
+/*.x-btn-default-small:after {*/
+/*border-color: #d87166;*/
+/*}*/
+
+.buttonfont {
+    color: #FFFFFF !important;
+    font-size: 12px;
+    font-weight: bold;
+    height: 20px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+/*.x-btn-inner .x-btn-inner-center {*/
+/*height: 25px;*/
+/*}*/
+
+/*.x-grid-row-focused .x-grid-td {*/
+/*color: red;*/
+/*}*/
+
+/*.x-btn-default-small .x-btn-inner {*/
+/*color: #ffffff;*/
+/*font-weight: bolder;*/
+/*}*/
+
+.buttonBackGroundColorAfter {
+    background-color: #ff3200 !important;
+    padding: 0 20px;
+    height: 30px;
+    display: block;
+    line-height: 30px;
+    vertical-align: middle;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.buttonBackGroundColorBefore {
+    background-color: #cdcccc !important;
+    padding: 0 20px;
+    height: 30px;
+    display: block;
+    line-height: 30px;
+    vertical-align: middle;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.winTitle {
+    font-size: 18px;
+    height: 22px;
+    line-height: 22px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.winTitle2 {
+    font-size: 14px;
+    height: 20px;
+    line-height: 20px;
+    vertical-align: middle;
+    text-align: center;
+    color: #a7a7a7;
+}
+
+.OrderBtnCls {
+    cursor: pointer;
+    color: #FFFFFF;
+    font-weight: bold;
+    background: #18cbc9;
+    border: none;
+    border-radius: 3px;
+    width: 80px;
+    height: 20px
+}
+
